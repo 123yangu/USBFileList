@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <array name="docType">
+        <item>DOC</item>
+        <item>DOCX</item>
+    </array>
+    <array name="pptType">
+        <item>PPT</item>
+        <item>PPTX</item>
+    </array>
+
+
+</resources>
